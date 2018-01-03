@@ -1,0 +1,99 @@
+.header
+{
+    text-align:center;
+    padding-bottom:.2cm;
+    padding-top:.2cm;
+    background-color:#C1E1A6;
+    border:1px solid;
+    border-color:#999999;
+}
+
+.bigLink
+{
+    font-size:20px;
+    text-decoration:none;
+    text-align:center;
+    color:#666666;
+    font-family:vollkorn;
+    font-weight:lighter;
+}
+
+.smallLink
+{
+    font-size:15px;
+    text-decoration:none;
+    text-align:center;
+    color:#666666;
+    font-family:vollkorn;
+    font-weight:lighter;
+}
+
+.spacer
+{
+    display:inline-block;
+    width:15px;
+}
+
+.infoSection
+{
+    padding-top:.75cm;
+    width:700px;
+    height:210px;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.info
+{
+    float:right;
+    width:180px;
+    height:210px;
+}
+
+.photo
+{
+    float:left;
+    width:520px;
+    height:210px;
+}
+
+.bigText
+{
+    font-size:25px;
+    text-align:center;
+    color:#666666;
+    font-family:vollkorn;
+    font-weight:lighter;
+}
+
+.infoText
+{
+    font-size:15px;
+    text-align:center;
+    color:#666666;
+    font-family:vollkorn;
+    font-weight:lighter;
+}
+
+.body
+{
+    width:700px;
+    font-size:15px;
+    text-align:left;
+    color:#666666;
+    font-family:vollkorn;
+    font-weight:lighter;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.bodyLink
+{
+    text-decoration:none;
+    text-align:center;
+    color:#6600dd;
+    font-family:vollkorn;
+    font-weight:lighter;
+}
+
+
